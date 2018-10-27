@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/_Scenes/StartMenu.unity
+    guid: 605df988758224d0d8a60d0cc9c91814
+  - enabled: 1
+    path: Assets/_Scenes/DayOne.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/_Scenes/FirstNight.unity
+    guid: 7e45c29c8076943078f8082a9416f95b
+  - enabled: 1
+    path: Assets/_Scenes/DayTwo.unity
+    guid: 06b48f5cec1ad4ed8ad635d79b3965b7
+  - enabled: 1
+    path: Assets/_Scenes/NightTwo.unity
+    guid: ea9e8ad22b8da4397b19a87e10b4ed8f
+  - enabled: 1
+    path: Assets/_Scenes/DayThree.unity
+    guid: a2b3e862c31b144659761c9c8401db58
+  - enabled: 1
+    path: Assets/_Scenes/NightThree.unity
+    guid: 9380a9799b05e47789e0d0dabe75dedd
+  - enabled: 1
+    path: Assets/_Scenes/DayFour.unity
+    guid: 6d7e3089552cb4c44ac6f0e192ab9026
+  - enabled: 1
+    path: Assets/_Scenes/NightFour.unity
+    guid: 70cd0d74948f34ac0adcc8e5125b8e65
+  - enabled: 1
+    path: Assets/_Scenes/DayFive.unity
+    guid: 1f4ca0447cb9d4901b1e43de6d987b45
+  - enabled: 1
+    path: Assets/_Scenes/NightFive.unity
+    guid: d2cc8288d5bac44569f5f8c9e08f2f3b
+  - enabled: 1
+    path: Assets/_Scenes/DaySix.unity
+    guid: 970e193bcf9c8489189f4961fa8e6abb
+  - enabled: 1
+    path: Assets/_Scenes/NightSix.unity
+    guid: c50b9bbb0687c454194fe754ad2e1422
+  - enabled: 1
+    path: Assets/_Scenes/DaySeven.unity
+    guid: f37e2aa46687c4722936ba70355452ba
+  - enabled: 1
+    path: Assets/_Scenes/NightSeven.unity
+    guid: e09fdc7292f3f46b5b53bde6741cf7ba
+  - enabled: 1
+    path: Assets/_Scenes/EndScene.unity
+    guid: 7858a98d6d47a4c2292fe830638e9a89
+  - enabled: 1
+    path: Assets/_Scenes/Credits.unity
+    guid: 59712b444e4584235882ef586c7d9b6c
+  m_configObjects: {}

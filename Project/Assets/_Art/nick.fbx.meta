@@ -1,0 +1,497 @@
+fileFormatVersion: 2
+guid: 761a10d3587364d19bbc8dd107e570c0
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: model:head_JNT
+    100004: model:head_tip
+    100006: model:LF_ankle_JNT
+    100008: model:LF_clavicle_JNT
+    100010: model:LF_elbow_JNT
+    100012: model:LF_foot_tip
+    100014: model:LF_hand_tip
+    100016: model:LF_hip_JNT
+    100018: model:LF_knee_JNT
+    100020: model:LF_shoulder_JNT
+    100022: model:LF_wrist_JNT
+    100024: model:model:nick_hair
+    100026: model:model:nick_hat
+    100028: model:model:nick_model
+    100030: model:model:nick_moustache
+    100032: model:model:nick_pocket_L
+    100034: model:model:nick_pocket_R
+    100036: model:neck_JNT
+    100038: model:pelvis_CRV
+    100040: model:pelvis_GRP
+    100042: model:pelvis_JNT
+    100044: model:RT_ankle_JNT
+    100046: model:RT_clavicle_JNT
+    100048: model:RT_elbow_JNT
+    100050: model:RT_foot_tip
+    100052: model:RT_hand_tip
+    100054: model:RT_hip_JNT
+    100056: model:RT_knee_JNT
+    100058: model:RT_shoulder_JNT
+    100060: model:RT_wrist_JNT
+    100062: model:spine_a_JNT
+    100064: model:spine_b_JNT
+    400000: //RootNode
+    400002: model:head_JNT
+    400004: model:head_tip
+    400006: model:LF_ankle_JNT
+    400008: model:LF_clavicle_JNT
+    400010: model:LF_elbow_JNT
+    400012: model:LF_foot_tip
+    400014: model:LF_hand_tip
+    400016: model:LF_hip_JNT
+    400018: model:LF_knee_JNT
+    400020: model:LF_shoulder_JNT
+    400022: model:LF_wrist_JNT
+    400024: model:model:nick_hair
+    400026: model:model:nick_hat
+    400028: model:model:nick_model
+    400030: model:model:nick_moustache
+    400032: model:model:nick_pocket_L
+    400034: model:model:nick_pocket_R
+    400036: model:neck_JNT
+    400038: model:pelvis_CRV
+    400040: model:pelvis_GRP
+    400042: model:pelvis_JNT
+    400044: model:RT_ankle_JNT
+    400046: model:RT_clavicle_JNT
+    400048: model:RT_elbow_JNT
+    400050: model:RT_foot_tip
+    400052: model:RT_hand_tip
+    400054: model:RT_hip_JNT
+    400056: model:RT_knee_JNT
+    400058: model:RT_shoulder_JNT
+    400060: model:RT_wrist_JNT
+    400062: model:spine_a_JNT
+    400064: model:spine_b_JNT
+    2100000: lambert1
+    2100002: model_model_nick_texture
+    2300000: model:model:nick_hair
+    2300002: model:model:nick_hat
+    2300004: model:model:nick_model
+    2300006: model:model:nick_moustache
+    2300008: model:model:nick_pocket_L
+    2300010: model:model:nick_pocket_R
+    3300000: model:model:nick_hair
+    3300002: model:model:nick_hat
+    3300004: model:model:nick_model
+    3300006: model:model:nick_moustache
+    3300008: model:model:nick_pocket_L
+    3300010: model:model:nick_pocket_R
+    4300000: model:model:nick_model
+    4300002: model:model:nick_hat
+    4300004: model:model:nick_hair
+    4300006: model:model:nick_moustache
+    4300008: model:model:nick_pocket_L
+    4300010: model:model:nick_pocket_R
+    7400000: Take 001
+    7400002: nick_idle
+    7400004: _idle
+    9500000: //RootNode
+    13700000: model:model:nick_hair
+    13700002: model:model:nick_hat
+    13700004: model:model:nick_model
+    13700006: model:model:nick_moustache
+    13700008: model:model:nick_pocket_L
+    13700010: model:model:nick_pocket_R
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: model_model_nick_texture
+    second: {fileID: 2100000, guid: 71f7fa2ec612a458bba75cd7b0c5fcec, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human:
+    - boneName: model:pelvis_JNT
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: model:LF_hip_JNT
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: model:RT_hip_JNT
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: model:LF_knee_JNT
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: model:RT_knee_JNT
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: model:LF_ankle_JNT
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: model:RT_ankle_JNT
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: model:spine_b_JNT
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: model:neck_JNT
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: model:head_JNT
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: model:LF_clavicle_JNT
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: model:RT_clavicle_JNT
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: model:LF_shoulder_JNT
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: model:RT_shoulder_JNT
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: model:LF_elbow_JNT
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: model:RT_elbow_JNT
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: model:LF_wrist_JNT
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: model:RT_wrist_JNT
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: model:LF_foot_tip
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: model:RT_foot_tip
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: model:head_tip
+      humanName: LeftEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: nick(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: model:model:nick_model
+      parentName: nick(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: model:pelvis_GRP
+      parentName: nick(Clone)
+      position: {x: -1.4367432e-18, y: 0.06851998, z: -0.0030511161}
+      rotation: {x: 0.49822363, y: -0.50177014, z: -0.49822363, w: 0.50177014}
+      scale: {x: 1, y: 1, z: 1}
+    - name: model:pelvis_CRV
+      parentName: model:pelvis_GRP
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: model:pelvis_JNT
+      parentName: nick(Clone)
+      position: {x: -1.4367432e-18, y: 0.06851998, z: -0.0030511161}
+      rotation: {x: 0.49822363, y: -0.50177014, z: -0.49822363, w: 0.5017701}
+      scale: {x: 1.0000007, y: 1.0000007, z: 1.0000005}
+    - name: model:spine_a_JNT
+      parentName: model:pelvis_JNT
+      position: {x: -0.0040682433, y: 1.2490008e-18, z: -9.033315e-19}
+      rotation: {x: -0.000000029802322, y: 0.000000029802322, z: -0.0035464913, w: 0.99999374}
+      scale: {x: 1.0000004, y: 1.0000004, z: 1.0000005}
+    - name: model:spine_b_JNT
+      parentName: model:spine_a_JNT
+      position: {x: -0.017635806, y: -0.00023920745, z: -9.201467e-18}
+      rotation: {x: -0.9999882, y: 0.004865406, z: 0.000000030053698, w: 0.00000002984057}
+      scale: {x: 1.0000001, y: 1.0000004, z: 1.0000008}
+    - name: model:neck_JNT
+      parentName: model:spine_b_JNT
+      position: {x: -0.021272006, y: -0.00007662285, z: 4.6647597e-18}
+      rotation: {x: -0.000000026451497, y: 0.00000002994523, z: 0.052007135, w: 0.99864674}
+      scale: {x: 1.0000005, y: 1.0000005, z: 1.0000004}
+    - name: model:head_JNT
+      parentName: model:neck_JNT
+      position: {x: -0.005924754, y: 4.5796697e-18, z: 5.305077e-17}
+      rotation: {x: -0.000000029664173, y: 0.0000000017054305, z: 0.0030009747, w: 0.9999955}
+      scale: {x: 1.0000004, y: 1.0000001, z: 1}
+    - name: model:head_tip
+      parentName: model:head_JNT
+      position: {x: -0.027442465, y: -3.8635761e-16, z: 5.6387397e-18}
+      rotation: {x: 0.46917275, y: -0.5290339, z: 0.46917266, w: 0.5290341}
+      scale: {x: 0.99999994, y: 1, z: 1.0000001}
+    - name: model:LF_clavicle_JNT
+      parentName: model:spine_b_JNT
+      position: {x: -0.016374178, y: 0.00015933899, z: -0.004861782}
+      rotation: {x: 0.46716624, y: -0.53080666, z: 0.52623576, w: 0.47230923}
+      scale: {x: 1.0000006, y: 1.0000005, z: 1.0000005}
+    - name: model:LF_shoulder_JNT
+      parentName: model:LF_clavicle_JNT
+      position: {x: -0.02303374, y: 0.0027184188, z: 1.6887577e-19}
+      rotation: {x: -0.00000008940696, y: 0.000000059604638, z: -0.052258737, w: 0.9986336}
+      scale: {x: 1.0000001, y: 1.0000002, z: 1.0000001}
+    - name: model:LF_elbow_JNT
+      parentName: model:LF_shoulder_JNT
+      position: {x: -0.022664675, y: -4.059253e-17, z: -1.4964588e-18}
+      rotation: {x: 0.00000007436956, y: -0.00000016489408, z: -0.110648096, w: 0.99385965}
+      scale: {x: 1.0000002, y: 1.0000005, z: 1}
+    - name: model:LF_wrist_JNT
+      parentName: model:LF_elbow_JNT
+      position: {x: -0.024570297, y: -0.007104625, z: 7.385325e-18}
+      rotation: {x: 0.000000018171093, y: 0.000000030859997, z: 0.06803492, w: 0.997683}
+      scale: {x: 1.0000008, y: 1.0000008, z: 1}
+    - name: model:LF_hand_tip
+      parentName: model:LF_wrist_JNT
+      position: {x: -0.009231625, y: 0.00013468666, z: -3.730223e-18}
+      rotation: {x: 0.49505937, y: -0.5048923, z: -0.49948186, w: 0.5005177}
+      scale: {x: 1.0000007, y: 1.0000006, z: 1.0000006}
+    - name: model:RT_clavicle_JNT
+      parentName: model:spine_b_JNT
+      position: {x: -0.016374301, y: 0.00015934094, z: 0.00486178}
+      rotation: {x: 0.5308067, y: 0.46716622, z: 0.47230917, w: -0.5262357}
+      scale: {x: 1.0000004, y: 1.000001, z: 1.0000011}
+    - name: model:RT_shoulder_JNT
+      parentName: model:RT_clavicle_JNT
+      position: {x: 0.023033794, y: -0.0027181478, z: -5.551115e-19}
+      rotation: {x: -0.000000029802322, y: 0.000000074505806, z: -0.052258715, w: 0.9986336}
+      scale: {x: 1, y: 1.0000004, z: 1.0000001}
+    - name: model:RT_elbow_JNT
+      parentName: model:RT_shoulder_JNT
+      position: {x: 0.022664633, y: -0.00000024442355, z: -2.1094237e-17}
+      rotation: {x: 0.000000024285864, y: -0.000000024815373, z: -0.1105605, w: 0.9938695}
+      scale: {x: 1.0000006, y: 0.99999994, z: 1.000001}
+    - name: model:RT_wrist_JNT
+      parentName: model:RT_elbow_JNT
+      position: {x: 0.024569156, y: 0.0070998496, z: -3.6082247e-17}
+      rotation: {x: 0.000000006982739, y: 0.000000030430794, z: 0.067920305, w: 0.9976908}
+      scale: {x: 1.0000004, y: 1.0000002, z: 1.0000004}
+    - name: model:RT_hand_tip
+      parentName: model:RT_wrist_JNT
+      position: {x: 0.009231576, y: -0.00013421671, z: 2.7755574e-18}
+      rotation: {x: 0.49505922, y: -0.5048925, z: -0.49948177, w: 0.50051767}
+      scale: {x: 1.0000004, y: 1.0000008, z: 1.0000005}
+    - name: model:LF_hip_JNT
+      parentName: model:pelvis_JNT
+      position: {x: 0.005148739, y: -0.000036520527, z: 0.014839961}
+      rotation: {x: -0.05199504, y: 0.99864733, z: -0.000000029802322, w: -0.000000029802322}
+      scale: {x: 1.0000005, y: 1.0000005, z: 1.0000005}
+    - name: model:LF_knee_JNT
+      parentName: model:LF_hip_JNT
+      position: {x: -0.029302457, y: 7.771561e-18, z: -6.661338e-18}
+      rotation: {x: -0.9972318, y: -0.07435522, z: 0.00000003039685, w: -0.000000033561665}
+      scale: {x: 1.0000006, y: 1.0000006, z: 1.0000011}
+    - name: model:LF_ankle_JNT
+      parentName: model:LF_knee_JNT
+      position: {x: -0.027680332, y: -1.9428907e-18, z: 2.3421976e-17}
+      rotation: {x: 0.81024194, y: 0.5860957, z: -0.00000001793451, w: 0.000000025078704}
+      scale: {x: 1.0000008, y: 1.0000002, z: 1.0000007}
+    - name: model:LF_foot_tip
+      parentName: model:LF_ankle_JNT
+      position: {x: -0.01684388, y: -1.864653e-17, z: 3.3712466e-10}
+      rotation: {x: 0.5677963, y: -0.8231692, z: -0.000000059604634, w: -0.000000029802319}
+      scale: {x: 1.0000005, y: 1.0000005, z: 1.0000001}
+    - name: model:RT_hip_JNT
+      parentName: model:pelvis_JNT
+      position: {x: 0.005148747, y: -0.000036524547, z: -0.014839999}
+      rotation: {x: 0.99864733, y: 0.051995054, z: -0.000000029802322, w: 0.000000029802322}
+      scale: {x: 1.0000004, y: 1.0000004, z: 1.0000005}
+    - name: model:RT_knee_JNT
+      parentName: model:RT_hip_JNT
+      position: {x: 0.029302455, y: -0.000000004557471, z: -8.881784e-18}
+      rotation: {x: 0.9972318, y: 0.07435524, z: 0.00000003039685, w: -0.000000033561665}
+      scale: {x: 0.9999998, y: 1, z: 1.0000004}
+    - name: model:RT_ankle_JNT
+      parentName: model:RT_knee_JNT
+      position: {x: 0.027680328, y: -2.6396305e-10, z: 4.440892e-18}
+      rotation: {x: -0.81024194, y: -0.58609563, z: 0.000000002408588, w: -0.00000006480657}
+      scale: {x: 1.0000007, y: 1.0000012, z: 1.0000007}
+    - name: model:RT_foot_tip
+      parentName: model:RT_ankle_JNT
+      position: {x: 0.016843865, y: 0.000000006421535, z: -2.3838267e-10}
+      rotation: {x: 0.56779623, y: -0.8231692, z: -0.000000026847088, w: -0.00000002229312}
+      scale: {x: 1.0000005, y: 1.0000006, z: 1.0000005}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
